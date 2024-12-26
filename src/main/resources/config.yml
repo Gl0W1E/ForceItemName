@@ -1,0 +1,12 @@
+# Names must be in lower cases.
+# For example: "oak_planks", NOT "OAK_PLANKS"
+# The full list of material (item) names can be found here:
+# https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+
+# Use the symbol "§" for the following color codes:
+# https://www.digminecraft.com/lists/color_list_pc.php
+
+oak_planks: "Wooden Planks"
+apple: "Red Apple"
+golden_apple: "Yellow Apple"
+
