@@ -1,0 +1,7 @@
+name: ForceItemName
+version: '0.1'
+main: dev.glowie.forceItemName.ForceItemName
+api-version: '1.20'
+authors: [Gl0W1E]
+description: Forces names on unnamed items.
+website: https://github.com/Gl0W1E
